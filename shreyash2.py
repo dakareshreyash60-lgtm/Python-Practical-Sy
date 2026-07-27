@@ -1,9 +1,3 @@
-name = input("Enter name:")
-collagename = input("Enter collage name:")
-rollno = input("Enter roll no:")
-add=input("Enter address:")
-print("********** student details **********")
-print(name)
-print(collagename)
-print(rollno)
-print(add)
+while True:
+    print("Hello learner")
+    
